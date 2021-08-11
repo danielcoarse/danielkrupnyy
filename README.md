@@ -2,7 +2,7 @@
 
 I'm self-taught frontend developer that loves buid sites primarily using React.
 
-Dream and plan go to FullStack 🚙
+I dream and plan to go to FullStack 🚙
 
 ### Expirience 🎓
 
